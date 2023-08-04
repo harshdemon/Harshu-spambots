@@ -12,7 +12,7 @@ START_BUTTON = [
         Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/Wrostdemon")
     ],
     [
-        Button.url("• ʀᴇᴘᴏ •", "https://github.com/harshdemon/XBOTS")
+        Button.url("• ʀᴇᴘᴏ •", "https://github.com/ItZxSTaR/XBOTS")
     ]
 ]
 
@@ -30,11 +30,11 @@ START_BUTTON = [
 @X10.on(events.NewMessage(pattern="/start"))
 async def start(event):              
     if event.is_private:
-        Harshu = await event.client.get_me()
+        AltBot = await event.client.get_me()
         bot_name = AltBot.first_name
         bot_id = AltBot.id
-        TEXT = f"**ʜᴇʏ​ [{event.sender.first_name}](tg://user?id={event.sender.id}),\n\nɪ ᴀᴍ [{bot_name}](tg://user?id={bot_id})​**\n━━━━━━━━━━━━━━━━━━━\n\n"
-        TEXT += f"» **ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ​ : [𝐀xᴇɴ](https://t.me/Harshu_XD1)**\n\n"
+        TEXT = f"**ʜᴇʏ [{event.sender.first_name}](tg://user?id={event.sender.id}),\n\nɪ ᴀᴍ [{bot_name}](tg://user?id={bot_id})**\n━━━━━━━━━━━━━━━━━━━\n\n"
+        TEXT += f"» **ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ : [𝐀xᴇɴ](https://t.me/Harshu_XD1)**\n\n"
         TEXT += f"» **xʙᴏᴛꜱ ᴠᴇʀsɪᴏɴ :** `M3.3`\n"
         TEXT += f"» **ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `3.11.3`\n"
         TEXT += f"» **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `{__version__}`\n━━━━━━━━━━━━━━━━━"
@@ -43,4 +43,5 @@ async def start(event):
                     "https://te.legra.ph/file/ae14f293ef4a9352c5248.jpg",
                     caption=TEXT, 
                     buttons=START_BUTTON
-                )
+    )
+        
