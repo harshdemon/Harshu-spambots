@@ -11,7 +11,7 @@
     "repository": "https://github.com/harshdemon/Harshu-spambots",
     "env": {
       "BOT_TOKEN": {
-        "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
+        "description": "Telegram Bots Token Get This value from https://t.me/BotFather",
         "value": "",
         "required": true
       },
