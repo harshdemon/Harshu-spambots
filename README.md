@@ -5,7 +5,7 @@
 <p align="center"><a href="https://t.me/Harshu_XD1"><img src="https://te.legra.ph/file/ae14f293ef4a9352c5248.jpg" width="400"></a></p>
 
 
-> ⭐️ Thanks to everyone for using this op XBOTS. That is the greatest pleasure we have !
+> ⭐️ Thanks to everyone for using this op ᕼᗩᖇꇙᕼᑌˣᴰBOTS. That is the greatest pleasure we have !
 
 
 # ᴅᴇᴘʟᴏʏᴍᴇɴᴛ
