@@ -49,7 +49,7 @@ async def logs(legend):
         await asyncio.sleep(1)
 
         try:
-            await X1.send_file(legend.chat_id, "ᕼᗩᖇꇙᕼᑌˣᴰ.txt", caption=f"⚡ **XBOTS LOGS** ⚡\n  » **ᴛɪᴍᴇ ᴛᴀᴋᴇɴ:** `{ms} ꜱᴇᴄᴏɴᴅꜱ`")
+            await X1.send_file(legend.chat_id, "Altlogs.txt", caption=f"⚡ **XBOTS LOGS** ⚡\n  » **ᴛɪᴍᴇ ᴛᴀᴋᴇɴ:** `{ms} ꜱᴇᴄᴏɴᴅꜱ`")
             await fetch.delete()
         except Exception as e:
             await fetch.edit(f"An Exception Occured!\n\n**ERROR:** {str(e)}")
