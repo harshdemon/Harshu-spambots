@@ -519,12 +519,12 @@ MRAID = [
 
 
 SRAID = [
-    "Me gya tha marne .. to vo boli.. abe mar be, me jinda laut ke a gya to vo boli... Gaddari karbe😁😁",
+    "Me gya tha marne .. to vo boli.. abe mar be me jinda laut ke a gya to vo boli... Gaddari karbe😁😁",
     "सरकार ने लगा दिए पालीथीन पे बेन.......... Tere Mast Mast Do Nain Mere Dil Ka Le Gae Chain ",
     " Ek taraf uski ane ki khusi dusri taraf uske jane ka gam....firvi gam me ye dil bolta hai...dreamum wakeupum critical conditionum ",
-    "मेरा जनाजा जाते ही मुझे दफन करते ही, मेरी कब्र पर रख जाना एक फूल लड़की ब्यूटिफुल कर गई छुल",
-    "Ishq me Log Chaand taare Tod Denge, Rom Rom Bhaiyon System phaad denge 😂",
-    "Bhakt hu mai unka jinko kehte hai Mahadev ...... Time mat waste Karo "Sabbal chalao Baldev"",
+    "मेरा जनाजा जाते ही मुझे दफन करते ही मेरी कब्र पर रख जाना एक फूल लड़की ब्यूटिफुल कर गई छुल",
+    "Ishq me Log Chaand taare Tod Denge Rom Rom Bhaiyon System phaad denge 😂",
+    "Bhakt hu mai unka jinko kehte hai Mahadev ...... Time mat waste Karo Sabbal chalao Baldev",
     "जालिम मोहब्बत में हमें कही का न छोड़ा काठी काठी का घोड़ा😁😁",
     "Chali gyi wo mujhe chorke Mera khoon rha hai ubal. Ye wali scheme best hai 25 din me Paisa double",
     "उनकी गली में जाते जाते अब तो कुत्ते भी हमारे यार हो गये.. वो तो हमारे हुवे नहीं हम कुत्तों के ही सरदार हो गये",
@@ -534,7 +534,7 @@ SRAID = [
     "Pyar to tumse itna karunga ki chaar log jaanenge.....shaadi v kar leta tumse par Abba nhi maanenge",
     "जिसे कोयल समझा वो कौवा निकला, दोस्ती के नाम पर हौवा निकला, जो रोकते थे हमें शराब पीने से, आज उन्हीं की जेब में पौवा निकला....",
     "Vo kah kar Chali gai mujhe go to hell aur main Dil per hath rakhkar bolata Raha all is well all is well",
-    "Mausam set hai Dil me bad Rahi tanhai hai, daaru nahi re baba, davaai hai",
+    "Mausam set hai Dil me bad Rahi tanhai hai daaru nahi re baba davaai hai",
     "Baap pet kaat k apni aulaad Ko khilaata hai khana ma kehti beta ghar jldi aana beta apni babu se kehta bachpan ka pyaar mera bhool nahi jana",
     "जहाँ पर फूल खिलते थे कभी😍😍",
     "आज वहां पर वीरान हो गए हैं🥰🥰",
